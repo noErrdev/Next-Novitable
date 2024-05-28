@@ -36,8 +36,8 @@ export default function Home() {
                   videoWidth={1600}
                   videoHeight={1080} />
             </div>
-            <div className='w-full xl:m-2 bg-yellow-900 xl:-translate-x-6 h-full xl:rounded-3xl'>
-              <div className="text-center md:p-8 md:pb-4 md:pt-8">
+            <div className='w-full xl:m-2 bg-yellow-900 xl:-translate-x-6 h-full xl:rounded-3xl p-12'>
+              <div className="text-center md:p-8">
                   <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter text-yellow-700 tracking-tighter mb-4" data-aos="zoom-y-out">Novi <span className="bg-clip-text text-transparent bg-gradient-to-r from-white to-orange-50">table</span></h1>
                   <div className="max-w-3xl mx-auto">
                     <p className="text-xl text-gray-200 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Our landing page template works on all devices</p>

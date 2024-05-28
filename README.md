@@ -8,7 +8,7 @@ Created and maintained with ❤️ by [Novitable.com](https://Novitable.com/).
 
 ## Live demo
 
-Check the live demo here 👉️ [https://green-home-khaki.vercel.app/](https://green-home-khaki.vercel.app/)
+Check the live demo here 👉️ [https://novitable.vercel.app/](https://novitable.vercel.app/)
 
 
 ### Getting Started

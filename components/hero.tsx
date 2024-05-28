@@ -2,7 +2,7 @@
 
 export default function Hero() {
   return (
-    <section className="relative">
+    <section className="relative flex bg-transparent bg-[url(/images/background.jpg)] opacity-90 bg-cover bg-center justify-center">
 
       {/* Illustration behind hero content */}
       <div className="absolute left-1/2 transform -translate-x-1/2 bottom-0 pointer-events-none -z-1" aria-hidden="true">
@@ -17,7 +17,7 @@ export default function Hero() {
         </svg>
       </div>
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 bg-transparent bg-[url(/images/background.jpg)] opacity-90 bg-cover bg-center w-full">
+      <div className="flex max-w-6xl px-4 sm:px-6 w-full justify-center">
 
         {/* Hero content */}
         <div className="pt-32 pb-12 md:pt-40 md:pb-20">
